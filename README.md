@@ -1,126 +1,64 @@
-### JQuery
+### React
 
-## jQuery Selectors
+## what is react js ?
 
-## jQuery Event 
+## What is single page application ?
 
-# Mouse Events	
-- click	    
-- dblclick			
-- mouseenter		
-- mouseleave
+## installation of react js
 
-# Keyboard Events	
-- keypress	
-- keydown
-- keyup
+## React Basic & working with components
+# what is component and its lifecycle?
+- class 	    
+- function	
 
-# Form Events	
-- submit
-- change
-- focus
-- blur
+# JSX	
 
-# Document/Window Events
-- load
-- resize
-- scroll
-- unload
+## React Props & working with props
+# what is Props?
+- parent to child 
+- child to parent
+- children				
 
-## jQuery Effects - Hide and Show
-- hide
-- show
+## React State & working with States
+# what is state?
+# form Submittion
 
 
-## jQuery Effects - Fading
-- fadeIn
-- fadeOut
-- fadeToggle
-- fadeTo
+## Rendering Lists & Conditional Content
 
-## jQuery Effects - Sliding
-- slideDown()
-- slideUp()
-- slideToggle()
+## Styling React Components
+- inline
+- module
+- globally
 
-## jQuery Effects - Animation
-- animate ( "show", "hide", or "toggle" )
+## Make TODO Application
 
-## jQuery Stop Animations
-- stop
+## Make news Application
 
-## jQuery Callback Functions
-- $(selector).hide(speed,callback);
+## Working with Fragments, Portals & "Refs"
 
-## jQuery Method Chaining
-- $("#p1").css("color", "red").slideUp(2000).slideDown(2000);
+## Handling Side Effects, Using Reducers & Using the Context API
 
-### jQuery HTML
+## React & Optimization Techniques ( useMemo  )
 
-## jQuery - Get Content and Attributes
-- text() - Sets or returns the text content of selected elements
-- html() - Sets or returns the content of selected elements (including HTML markup)
-- val() - Sets or returns the value of form fields
+## Sending Http Requests
 
-## Get Attributes - attr()
-- attr()
+## Building Custom React Hooks
 
-## jQuery - Set Content and Attributes
-- text()
-- html()
-- val()
+## Working with Forms & User Input
 
-## jQuery - Add Elements
-- append() - Inserts content at the end of the selected elements
-- prepend() - Inserts content at the beginning of the selected elements
-- after() - Inserts content after the selected elements
-- before() - Inserts content before the selected elements
+## Diving into Redux (An Alternative To The Context API)
+- Redux 
+- Redux Middleware
+- Redux Thunk
+- Redux Saga
 
-## jQuery - Remove Elements
-- remove() - Removes the selected element (and its child elements)
-- empty() - Removes the child elements from the selected element
+## Building a Multi-Page SPA with React Router
 
-## jQuery - Get and Set CSS Classes
-- addClass() - Adds one or more classes to the selected elements
-- removeClass() - Removes one or more classes from the selected elements
-- toggleClass() - Toggles between adding/removing classes from the selected elements
-- css() - Sets or returns the style attribute
+## Adding Authentication To React Apps
 
-## jQuery - Dimensions
-- width()
-- height()
-- innerWidth()
-- innerHeight()
-- outerWidth()
-- outerHeight()
+## React + TypeScript
 
-## jQuery Traversing - Ancestors
-- parent()
-- parents()
-- parentsUntil()
+## ecommerce project
 
-## jQuery Traversing - Descendants
-- children()
-- find()
 
-## jQuery Traversing - Siblings
-- siblings()
-- next()
-- nextAll()
-- nextUntil()
-- prev()
-- prevAll()
-- prevUntil()
-
-## jQuery Traversing - Filtering
-- first()
-- last() 
-- eq() 
-- filter() 
-- not() 
-
-## jQuery - AJAX Introduction
-- load()
-
-# jQuery $.get() Method
-# jQuery $.post() Method
