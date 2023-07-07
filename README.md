@@ -23,7 +23,6 @@
 # what is state?
 # form Submittion
 
-
 ## Rendering Lists & Conditional Content
 
 ## Styling React Components
@@ -33,13 +32,11 @@
 
 ## Make TODO Application
 
-## Make news Application
-
 ## Working with Fragments, Portals & "Refs"
 
 ## Handling Side Effects, Using Reducers & Using the Context API
 
-## React & Optimization Techniques ( useMemo  )
+## Optimization Techniques ( useMemo  )
 
 ## Sending Http Requests
 
@@ -54,6 +51,8 @@
 - Redux Saga
 
 ## Building a Multi-Page SPA with React Router
+
+## Make news Application
 
 ## Adding Authentication To React Apps
 
